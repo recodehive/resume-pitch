@@ -18,3 +18,5 @@
 3. https://github.com/urstrulynishkarsh/ReactChat/pull/183
 4. https://github.com/JAYESHBATRA/Virtuo-Learn/pull/408
 5. https://github.com/JAYESHBATRA/Virtuo-Learn/pull/407
+6. https://github.com/JiyaGupta-cs/ShopNex/pull/376
+7. https://github.com/JiyaGupta-cs/ShopNex/pull/367
