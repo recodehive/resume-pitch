@@ -1,9 +1,5 @@
 dhruv8433
 
-# this all pr merged but don't get any level (2 pr point got)
-1. Student Achievements Counselllor/Counsellor-Web#1191
-2. responsive about us section HimanshuNarware/Devlabs#2175
-
 # unmerged pr
 1. Navigation aling HimanshuNarware/Devlabs#2897
 2. Remove bookmark HimanshuNarware/Devlabs#2894
