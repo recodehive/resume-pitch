@@ -1,4 +1,4 @@
-## Merged PRs But No Points - Overall Total Points: 105 remained
+## Merged PRs But No Points - Overall Total Points needed to be add: 105 Points
  
 ### 1. [MAVRICK-1/e-commerce_website] - Rishi Mondal Nest ONDC : Total Points 60
 
