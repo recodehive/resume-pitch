@@ -6,3 +6,4 @@
 ## Unmerged PRs
 
 1. https://github.com/Omkar-Sonawane-23/Tourism/pull/379
+2. https://github.com/Omkar-Sonawane-23/Tourism/pull/378
