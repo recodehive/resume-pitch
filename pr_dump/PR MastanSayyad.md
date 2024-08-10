@@ -22,3 +22,4 @@ Added two different Pages with complete responsiveness and detail, successfully 
 ![image](https://github.com/user-attachments/assets/badaf46f-976e-45f8-805b-98e866a7099e)
 
 
+
