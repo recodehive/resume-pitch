@@ -1,4 +1,7 @@
 # My unmerged pr (Group 3)
 
-1. https://github.com/JiyaGupta-cs/ShopNex/pull/353
-2. https://github.com/omrajsharma/bigohhh.com/pull/87
+the admin said they will merge this pr in any other branch but now they didn't response
+i completed my side work and design whole page 
+please look into this
+
+1. https://github.com/pooranjoyb/popShop/pull/320
