@@ -1,8 +1,7 @@
 dhruv8433
 
-# unmerged pr
-1. subscribers data added to databse Counselllor/Counsellor-Web#1296
-2. Profile UI pooranjoyb/popShop#320
-3. solve navbar problem and make it fixed Rajan-Barnwal/jobproject#360
-4. Collection page JiyaGupta-cs/ShopNex#353
-5. About page omrajsharma/bigohhh.com#87
+# this all pr merged but don't get any level (2 pr point got) -- All this pr are based on level 2
+1. https://github.com/HimanshuNarware/Devlabs/pull/2982#event-13827167777
+2. https://github.com/HimanshuNarware/Devlabs/pull/2897#issuecomment-2279737205
+3. https://github.com/HimanshuNarware/Devlabs/pull/2894#event-13827167776
+
